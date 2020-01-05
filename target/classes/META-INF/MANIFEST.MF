@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Implementation-Title: codegyani course
+Implementation-Version: 0.0.1-SNAPSHOT
+Built-By: Tushant
+Implementation-Vendor-Id: codegyani
+Build-Jdk: 1.8.0_231
+Implementation-URL: https://projects.spring.io/spring-boot/#/spring-bo
+ ot-starter-parent/com.codegyani.course
+Created-By: Maven Integration for Eclipse
+
